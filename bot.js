@@ -3,8 +3,8 @@ const axios = require("axios");
 require("dotenv").config();
 
 const token = process.env.BOT_TOKEN; //tg bot token here
-const kryptonChatId = 649341653;
-const channelChatId = "@chamolicowid18notifier";
+const kryptonChatId = 649341653; // my chat id to receive all the updates
+const channelChatId = "@chamolicowid18notifier"; //channel where if 18 age slot is available will be poseted
 const bot = new TelegramBot(token, { polling: false });
 
 bot.sendMessage(kryptonChatId, "Bot starting!");
