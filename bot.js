@@ -68,8 +68,12 @@ const getData = async (url) => {
   bot.sendMessage(kryptonChatId, "===========END===========");
 };
 
-let url =
+let chamoliUrl =
   "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=699&date=";
+let pauriUrl =
+  "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode=246001&date=";
 
-getData(url);
-setInterval(() => getData(url), 1800000); //30 min gap
+getData(chamoliUrl);
+getData(pauriUrl);
+setInterval(() => getData(chamoliUrl), 3600000); //1 hour gap
+setInterval(() => getData(pauriUrl), 3600000); //1 hour gap
