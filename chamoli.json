@@ -1,0 +1,435 @@
+{
+  "centers": [
+    {
+      "center_id": 417198,
+      "name": "Boragad PHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Dewal",
+      "pincode": 246427,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "816d4ebd-6885-46f8-b3a9-81ea84787743",
+          "date": "03-05-2021",
+          "available_capacity": 200,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417065,
+      "name": "Ghat CHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Ghat",
+      "pincode": 246435,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9a5d0df9-76fd-43fd-b59a-91524454ff7c",
+          "date": "03-05-2021",
+          "available_capacity": 199,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417252,
+      "name": "Ased Simli Sub Center",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Narayanbagar",
+      "pincode": 246455,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d92986ff-23b3-48f0-8b54-106299c6aa6f",
+          "date": "03-05-2021",
+          "available_capacity": 200,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417810,
+      "name": "Urgam PHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Joshimath",
+      "pincode": 246443,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f17eee1d-f211-4aa5-a3c2-24793b340ba1",
+          "date": "03-05-2021",
+          "available_capacity": 50,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417194,
+      "name": "Nandkeshari SC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Dewal",
+      "pincode": 246427,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8da2e8b6-b138-439a-82c3-7673fc4edc09",
+          "date": "03-05-2021",
+          "available_capacity": 50,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 440348,
+      "name": "Gairsain CHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Gairsain",
+      "pincode": 246428,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c56f93af-a5b2-4190-8152-3a31552f68d3",
+          "date": "03-05-2021",
+          "available_capacity": 198,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417145,
+      "name": "Dewal PHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Dewal",
+      "pincode": 246427,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f788fe4e-55bb-44cc-baac-754f1285c107",
+          "date": "04-05-2021",
+          "available_capacity": 200,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        },
+        {
+          "session_id": "c9038229-e287-483c-84e6-a3b3029230c8",
+          "date": "05-05-2021",
+          "available_capacity": 200,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        },
+        {
+          "session_id": "872d5f18-bc69-410c-bc41-e3ab0bc3bea8",
+          "date": "06-05-2021",
+          "available_capacity": 200,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417934,
+      "name": "Gwaldam PHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Tharali",
+      "pincode": 246441,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "77a8ba87-e61e-4904-ac33-2ef6b4287991",
+          "date": "04-05-2021",
+          "available_capacity": 200,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417972,
+      "name": "Tharali CHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Tharali",
+      "pincode": 246481,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d368496e-2a68-406c-8279-b2afec3686ad",
+          "date": "04-05-2021",
+          "available_capacity": 198,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        },
+        {
+          "session_id": "8c84b177-0469-458f-9a22-b8ab3bb1d1c0",
+          "date": "05-05-2021",
+          "available_capacity": 200,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 396015,
+      "name": "Chamoli PHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Dasholi",
+      "pincode": 246424,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "0613c89b-83c0-48b5-90a8-3b0979ff7cf8",
+          "date": "04-05-2021",
+          "available_capacity": 197,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417305,
+      "name": "Chamoli DH",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Dasholi",
+      "pincode": 246401,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "028eb216-00e9-4c40-b542-d35b8b532b23",
+          "date": "04-05-2021",
+          "available_capacity": 200,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417879,
+      "name": "Pokhari CHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Pokhari",
+      "pincode": 246473,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "742e028f-4c3d-4e3d-b76d-04d5853f1a89",
+          "date": "04-05-2021",
+          "available_capacity": 169,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417231,
+      "name": "Narayanbagar PHC",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Narayanbagar",
+      "pincode": 246455,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "46bc9149-c79e-4fc1-8b1a-3e22a38dadd9",
+          "date": "04-05-2021",
+          "available_capacity": 200,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    },
+    {
+      "center_id": 417919,
+      "name": "Mohan Khal Sub Center",
+      "state_name": "Uttarakhand",
+      "district_name": "Chamoli",
+      "block_name": "Pokhari",
+      "pincode": 246473,
+      "lat": 30,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "82fe111c-e271-44c9-accc-9e2fe917a503",
+          "date": "04-05-2021",
+          "available_capacity": 50,
+          "min_age_limit": 45,
+          "vaccine": "",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ]
+        }
+      ]
+    }
+  ]
+}
